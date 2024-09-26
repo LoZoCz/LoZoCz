@@ -1,6 +1,6 @@
 # **🪐Mateusz Czernik 'LoZo'**
 
-**`Passionate Frontend Developer | React & TypeScript Specialist`**
+**`Zafascynowany Frontend Developer | Specjalista React i TypeScript`**
 
 Jestem frontend developerem, który uwielbia odkrywać, jak działa internet "od środka". Tworzę aplikacje z użyciem React i TypeScript, starając się, żeby nie tylko działały dobrze, ale też wyglądały świetnie.
 
@@ -25,16 +25,6 @@ Sprawdź moje repozytoria i zobacz, nad czym teraz pracuję!
 
 #
 
-<details>
-<summary><h3>🌱 Moja droga do programowania</h3></summary>
-Od zawsze fascynowało mnie, jak działa technologia, ale dopiero kilka lat temu zdecydowałem się zagłębić w frontend. Początkowo uczyłem się samodzielnie, korzystając z dostępnych kursów online, dokumentacji i praktycznych projektów. To, co zaczęło się od prostych stron internetowych, szybko przerodziło się w pełne aplikacje, które rozwijam z pomocą React i TypeScript.
-
-Każdy projekt, nad którym pracuję, traktuję jako okazję do nauki i doskonalenia umiejętności. Uwielbiam wyzwania, które zmuszają mnie do głębszego zrozumienia tego, jak działają narzędzia, z których korzystam, i w jaki sposób mogę je najlepiej wykorzystać w swoich projektach.
-
-</details>
-
-#
-
 ### 💼 Aktualnie szukam pracy
 
 Jestem w pełni gotowy, by dołączyć do zespołu jako Frontend Developer. Jeśli szukasz kogoś, kto nie tylko zna swoje narzędzia, ale również podchodzi do problemów z pasją i chęcią do ciągłego rozwoju, daj mi znać!
@@ -45,6 +35,18 @@ Jestem w pełni gotowy, by dołączyć do zespołu jako Frontend Developer. Jeś
 
 - **[Portfolio](https://github.com/LoZoCz/next-portfolio)** – Moje osobiste portfolio zbudowane w Next.js, z dynamiczną stroną o projektach.
 - **[Dietetyczny Blog](https://github.com/LoZoCz/diet-project-freelance)** – Strona dietetyczna z blogiem, napisana przy użyciu Next.js i Sanity CMS.
+
+#
+
+<details>
+<summary><h3>🌱 Moja droga do programowania</h3></summary>
+Od zawsze fascynowało mnie, jak działa technologia, ale dopiero kilka lat temu zdecydowałem się zagłębić w frontend. Początkowo uczyłem się samodzielnie, korzystając z dostępnych kursów online, dokumentacji i praktycznych projektów. To, co zaczęło się od prostych stron internetowych, szybko przerodziło się w pełne aplikacje, które rozwijam z pomocą React i TypeScript.
+
+Każdy projekt, nad którym pracuję, traktuję jako okazję do nauki i doskonalenia umiejętności. Uwielbiam wyzwania, które zmuszają mnie do głębszego zrozumienia tego, jak działają narzędzia, z których korzystam, i w jaki sposób mogę je najlepiej wykorzystać w swoich projektach.
+
+</details>
+
+#
 
 ### 📬 Kontakt
 
