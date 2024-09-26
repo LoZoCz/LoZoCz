@@ -31,6 +31,8 @@ Od zawsze fascynowało mnie, jak działa technologia, ale dopiero kilka lat temu
 
 Każdy projekt, nad którym pracuję, traktuję jako okazję do nauki i doskonalenia umiejętności. Uwielbiam wyzwania, które zmuszają mnie do głębszego zrozumienia tego, jak działają narzędzia, z których korzystam, i w jaki sposób mogę je najlepiej wykorzystać w swoich projektach.
 
+</details>
+
 #
 
 ### 💼 Aktualnie szukam pracy
