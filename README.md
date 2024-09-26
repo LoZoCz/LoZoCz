@@ -26,14 +26,10 @@ Sprawdź moje repozytoria i zobacz, nad czym teraz pracuję!
 #
 
 <details>
-<summary>
-<h3>🌱 Moja droga do programowania</h3>
+<summary><h3>🌱 Moja droga do programowania</h3></summary>
 Od zawsze fascynowało mnie, jak działa technologia, ale dopiero kilka lat temu zdecydowałem się zagłębić w frontend. Początkowo uczyłem się samodzielnie, korzystając z dostępnych kursów online, dokumentacji i praktycznych projektów. To, co zaczęło się od prostych stron internetowych, szybko przerodziło się w pełne aplikacje, które rozwijam z pomocą React i TypeScript.
 
 Każdy projekt, nad którym pracuję, traktuję jako okazję do nauki i doskonalenia umiejętności. Uwielbiam wyzwania, które zmuszają mnie do głębszego zrozumienia tego, jak działają narzędzia, z których korzystam, i w jaki sposób mogę je najlepiej wykorzystać w swoich projektach.
-
-</summary>
-</details>
 
 #
 
@@ -45,11 +41,11 @@ Jestem w pełni gotowy, by dołączyć do zespołu jako Frontend Developer. Jeś
 
 ### 🚀 Najciekawsze Projekty
 
-- **[Portfolio](#)** – Moje osobiste portfolio zbudowane w Next.js, z dynamiczną stroną o projektach.
-- **[Dietetyczny Blog](#)** – Strona dietetyczna z blogiem, napisana przy użyciu React i Sanity CMS.
+- **[Portfolio](https://github.com/LoZoCz/next-portfolio)** – Moje osobiste portfolio zbudowane w Next.js, z dynamiczną stroną o projektach.
+- **[Dietetyczny Blog](https://github.com/LoZoCz/diet-project-freelance)** – Strona dietetyczna z blogiem, napisana przy użyciu Next.js i Sanity CMS.
 
 ### 📬 Kontakt
 
-- [LinkedIn](https://www.linkedin.com/in/twojprofil)
-- [Email](mailto:twojemail@gmail.com)
-- [Portfolio](https://twojeportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/mateusz-czernik)
+- [Email](mailto:m.czernik12@gmail.com)
+- [Portfolio](https://czernik-portfolio.vercel.app/)
