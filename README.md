@@ -1,4 +1,3 @@
-
 # **🪐Mateusz Czernik 'LoZo'**
 
 **`Passionate Frontend Developer | React & TypeScript Specialist`**
@@ -10,8 +9,6 @@ Dlaczego to robię? Z czystej ciekawości! Zawsze fascynowało mnie, dlaczego st
 Sprawdź moje repozytoria i zobacz, nad czym teraz pracuję!
 
 ---
----
----
 
 ### 🧰 Języki i narzędzia których używam
 
@@ -19,25 +16,40 @@ Sprawdź moje repozytoria i zobacz, nad czym teraz pracuję!
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />          
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />                    
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />          
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />         
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="TS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />          
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </br>
-          
 
-<!--
-**LoZoCz/LoZoCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<details>
+<summary>
+<h3>🌱 Moja droga do programowania</h3>
+Od zawsze fascynowało mnie, jak działa technologia, ale dopiero kilka lat temu zdecydowałem się zagłębić w frontend. Początkowo uczyłem się samodzielnie, korzystając z dostępnych kursów online, dokumentacji i praktycznych projektów. To, co zaczęło się od prostych stron internetowych, szybko przerodziło się w pełne aplikacje, które rozwijam z pomocą React i TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Każdy projekt, nad którym pracuję, traktuję jako okazję do nauki i doskonalenia umiejętności. Uwielbiam wyzwania, które zmuszają mnie do głębszego zrozumienia tego, jak działają narzędzia, z których korzystam, i w jaki sposób mogę je najlepiej wykorzystać w swoich projektach.
+
+</summary>
+</details>
+
+#
+
+### 💼 Aktualnie szukam pracy
+
+Jestem w pełni gotowy, by dołączyć do zespołu jako Frontend Developer. Jeśli szukasz kogoś, kto nie tylko zna swoje narzędzia, ale również podchodzi do problemów z pasją i chęcią do ciągłego rozwoju, daj mi znać!
+
+#
+
+### 🚀 Najciekawsze Projekty
+
+- **[Portfolio](#)** – Moje osobiste portfolio zbudowane w Next.js, z dynamiczną stroną o projektach.
+- **[Dietetyczny Blog](#)** – Strona dietetyczna z blogiem, napisana przy użyciu React i Sanity CMS.
+
+### 📬 Kontakt
+
+- [LinkedIn](https://www.linkedin.com/in/twojprofil)
+- [Email](mailto:twojemail@gmail.com)
+- [Portfolio](https://twojeportfolio.com)
